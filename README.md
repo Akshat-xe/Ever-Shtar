@@ -22,10 +22,6 @@ Ever Shtar is a digital automation company built on the principle that great sys
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Run Locally
-
-Open `index.html` directly in any browser — no build step, no server needed.
-
 ---
 
 *No walls. No limits. Ever Shtar rises.*
