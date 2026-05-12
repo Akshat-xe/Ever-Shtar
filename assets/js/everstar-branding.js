@@ -94,3 +94,5 @@
     mo.observe(document.documentElement, { subtree: true, characterData: true, childList: true });
   } catch (e) {}
 })();
+
+// Patch 2.0.0
