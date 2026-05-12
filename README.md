@@ -25,3 +25,5 @@ Ever Shtar is a digital automation company built on the principle that great sys
 ---
 
 *No walls. No limits. Ever Shtar rises.*
+
+<!-- Patch 2.0.0 -->
