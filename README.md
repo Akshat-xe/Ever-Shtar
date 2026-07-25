@@ -53,3 +53,7 @@ const KEY_PREFS = 'user_pref_v1';
 
 /* Session Timeout */
 const INACTIVITY_LIMIT_MINS = 30;
+
+
+/* Commit Conventions */
+// Tags: feat, fix, docs, style, refactor, perf, test
