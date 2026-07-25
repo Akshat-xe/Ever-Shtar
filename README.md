@@ -57,3 +57,7 @@ const INACTIVITY_LIMIT_MINS = 30;
 
 /* Commit Conventions */
 // Tags: feat, fix, docs, style, refactor, perf, test
+
+
+/* Analytics Specs */
+// Standardized event action strings
