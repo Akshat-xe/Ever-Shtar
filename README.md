@@ -45,3 +45,7 @@ Ever Shtar is a digital automation company built on the principle that great sys
 
 /* Storage Dictionary */
 const KEY_PREFS = 'user_pref_v1';
+
+
+/* Changelog Standard */
+// Version format: MAJOR.MINOR.PATCH
