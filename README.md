@@ -27,3 +27,9 @@ Ever Shtar is a digital automation company built on the principle that great sys
 *No walls. No limits. Ever Shtar rises.*
 
 <!-- Patch 2.0.0 -->
+
+
+## Setup Instructions
+1. Clone repo
+2. Install dependencies
+3. Run development server
