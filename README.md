@@ -49,3 +49,7 @@ const KEY_PREFS = 'user_pref_v1';
 
 /* Changelog Standard */
 // Version format: MAJOR.MINOR.PATCH
+
+
+/* Session Timeout */
+const INACTIVITY_LIMIT_MINS = 30;
