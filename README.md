@@ -37,3 +37,7 @@ Ever Shtar is a digital automation company built on the principle that great sys
 
 ## Contributing
 - Conventional commit format required (`feat:`, `fix:`, `docs:`).
+
+
+## Utilities
+- Common string, array, and date formatting helper functions.
