@@ -33,3 +33,7 @@ Ever Shtar is a digital automation company built on the principle that great sys
 1. Clone repo
 2. Install dependencies
 3. Run development server
+
+
+## Contributing
+- Conventional commit format required (`feat:`, `fix:`, `docs:`).
