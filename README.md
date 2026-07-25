@@ -41,3 +41,7 @@ Ever Shtar is a digital automation company built on the principle that great sys
 
 ## Utilities
 - Common string, array, and date formatting helper functions.
+
+
+/* Storage Dictionary */
+const KEY_PREFS = 'user_pref_v1';
